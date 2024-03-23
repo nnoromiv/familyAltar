@@ -1,0 +1,13 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "dart.flutterHotReloadOnSave": "all",
+    "dart.hotReloadOnSave": "all",
+    "dart.previewHotReloadOnSaveWatcher": true,
+    "dart.flutterGenerateLocalizationsOnSave": "all",
+    "cSpell.words": [
+        "cupertino",
+        "dotenv",
+        "familyaltar",
+        "sublist"
+    ]
+}
